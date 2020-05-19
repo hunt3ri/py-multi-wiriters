@@ -1,0 +1,5 @@
+# Pycharm
+.idea/
+
+# ignore output files
+*.txt
