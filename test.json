@@ -1,0 +1,24 @@
+{
+   "covidStats":[
+      {
+         "week1":[
+            {
+               "lonLat":[
+                  -3.934162,
+                  56.115462
+               ],
+               "deaths":30,
+               "place":"Stirling"
+            },
+            {
+               "lonLat":[
+                  -4.123812,
+                  55.849825
+               ],
+               "deaths":60,
+               "place":"Glasgow"
+            }
+         ]
+      }
+   ]
+}
