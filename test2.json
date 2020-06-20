@@ -12,7 +12,7 @@
       {
          "type":"Feature",
          "properties":{
-            "deaths":"0.22",
+            "deaths":"0.4",
             "place":"Stirling"
          },
          "geometry":{
@@ -20,76 +20,6 @@
             "coordinates":[
                -3.934162,
                56.115462
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
             ]
          }
       },
