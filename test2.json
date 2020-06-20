@@ -12,7 +12,7 @@
       {
          "type":"Feature",
          "properties":{
-            "deaths":22,
+            "deaths":"0.22",
             "place":"Stirling"
          },
          "geometry":{
@@ -26,7 +26,7 @@
       {
          "type":"Feature",
          "properties":{
-            "deaths":200,
+            "deaths":"0.6",
             "place":"Glasgow"
          },
          "geometry":{
