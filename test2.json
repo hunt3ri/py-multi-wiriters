@@ -12,7 +12,8 @@
       {
          "type":"Feature",
          "properties":{
-            "deaths":"0.4",
+            "deaths": 40,
+            "radius": 10,
             "place":"Stirling"
          },
          "geometry":{
@@ -26,35 +27,8 @@
       {
          "type":"Feature",
          "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
-            "place":"Glasgow"
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               -4.123812,
-               55.849825
-            ]
-         }
-      },
-      {
-         "type":"Feature",
-         "properties":{
-            "deaths":"0.6",
+            "deaths":60,
+            "radius": 15,
             "place":"Glasgow"
          },
          "geometry":{
