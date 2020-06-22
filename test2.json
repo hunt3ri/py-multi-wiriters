@@ -29,13 +29,13 @@
          "properties":{
             "deaths":60,
             "weight": "1.0",
-            "place":"Glasgow"
+            "place":"Glasgow City"
          },
          "geometry":{
             "type":"Point",
             "coordinates":[
-               -4.123812,
-               55.849825
+               -4.236884,
+               55.863630
             ]
          }
       },
