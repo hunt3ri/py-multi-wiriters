@@ -42,6 +42,21 @@
       {
          "type":"Feature",
          "properties":{
+            "deaths":60,
+            "weight": "1.0",
+            "place":"Greater Glasgow"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[            	
+               -4.25311365055,
+               55.8578791571
+            ]
+         }
+      }
+      {
+         "type":"Feature",
+         "properties":{
             "deaths":1,
             "weight": "0.8",
             "place":"North Ayrshire"
