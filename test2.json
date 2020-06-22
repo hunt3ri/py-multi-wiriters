@@ -43,7 +43,7 @@
          "type":"Feature",
          "properties":{
             "deaths":1,
-            "weight": "0.6",
+            "weight": "0.7",
             "place":"North Ayrshire"
          },
          "geometry":{
