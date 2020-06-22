@@ -38,6 +38,21 @@
                55.849825
             ]
          }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "deaths":1,
+            "weight": "0.5",
+            "place":"North Ayrshire"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -4.97950732759,
+               55.6505294864
+            ]
+         }
       }
    ]
 }
