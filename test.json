@@ -1,24 +1,200 @@
 {
-   "covidStats":[
-      {
-         "week1":[
-            {
-               "lonLat":[
-                  -3.934162,
-                  56.115462
-               ],
-               "deaths":30,
-               "place":"Stirling"
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
             },
-            {
-               "lonLat":[
-                  -4.123812,
-                  55.849825
-               ],
-               "deaths":60,
-               "place":"Glasgow"
-            }
-         ]
-      }
-   ]
+            "properties": {
+                "deaths": 1,
+                "place": "North Ayrshire",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "Glasgow City",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 2,
+                "place": "Fife",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "Aberdeenshire",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "Aberdeen City",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 2,
+                "place": "Renfrewshire",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "West Lothian",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "City of Edinburgh",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 2,
+                "place": "Fife",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 1,
+                "place": "Ayrshire and Arran",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 2,
+                "place": "Grampian",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 2,
+                "place": "Lothian",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6432,
+                    -19.123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "deaths": 3,
+                "place": "Greater Glasgow and Clyde",
+                "weight": 0.9
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }
