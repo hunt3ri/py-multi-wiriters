@@ -11,7 +11,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "North Ayrshire",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -26,7 +26,7 @@
             "properties": {
                 "deaths": 2,
                 "place": "Fife",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -41,7 +41,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "Aberdeenshire",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -56,7 +56,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "Aberdeen City",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -71,7 +71,7 @@
             "properties": {
                 "deaths": 2,
                 "place": "Renfrewshire",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -86,7 +86,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "West Lothian",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -101,7 +101,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "City of Edinburgh",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -116,7 +116,7 @@
             "properties": {
                 "deaths": 2,
                 "place": "Fife",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -131,7 +131,7 @@
             "properties": {
                 "deaths": 1,
                 "place": "Ayrshire and Arran",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -146,7 +146,7 @@
             "properties": {
                 "deaths": 2,
                 "place": "Grampian",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -161,7 +161,7 @@
             "properties": {
                 "deaths": 2,
                 "place": "Lothian",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         },
@@ -176,7 +176,7 @@
             "properties": {
                 "deaths": 4,
                 "place": "Greater Glasgow and Clyde",
-                "weight": 0.0
+                "weight": 0.7
             },
             "type": "Feature"
         }
